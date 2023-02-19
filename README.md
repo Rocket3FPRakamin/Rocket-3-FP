@@ -43,10 +43,13 @@ Handle Class Imbalance
 Feature Encoding untuk proses mengubah feature categorical menjadi feature numeric karena saat membuat permodelan, model hanya dapat menggunakan feature categorical.
 
 Feature Engineering
+
 Feature Selection
 Pada dataset yang kami gunakan tidak ada penambahan feature dikarenakan seluruh feature digunakan untuk modelling dan tidak ada yang di drop.
+
 Feature Extraction
 Membuat satu feature baru, yaitu average churn.
+
 Feature Tambahan
 1. Age = untuk mengetahui persebaran umur yang lebih banyak churn.
 2. Product recommendation = untuk dapat mengukur kategori mana yang dapat ditawari promo.
