@@ -37,9 +37,11 @@ Feature Transformation
 3. Pada feature dengan distribusi normal dan tidak normal tersebut dilakukan scaling.
 
 Feature Encoding
+
 Feature Encoding untuk proses mengubah kolom dengan feature categorical menjadi feature numeric.
 
 Handle Class Imbalance
+
 Feature Encoding untuk proses mengubah feature categorical menjadi feature numeric karena saat membuat permodelan, model hanya dapat menggunakan feature categorical.
 
 Feature Engineering
