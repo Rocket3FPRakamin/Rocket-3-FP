@@ -47,9 +47,11 @@ Feature Encoding untuk proses mengubah feature categorical menjadi feature numer
 Feature Engineering
 
 Feature Selection
+
 Pada dataset yang kami gunakan tidak ada penambahan feature dikarenakan seluruh feature digunakan untuk modelling dan tidak ada yang di drop.
 
 Feature Extraction
+
 Membuat satu feature baru, yaitu average churn.
 
 Feature Tambahan
